@@ -4,6 +4,8 @@
 
 Everything you see here is everything about me. Read anything that you are Interested in, feel free to skip the one that's not relevant for you to understand who really am I. There's not much "codes" or "programming languages I know" going on here, but there's lots of my true thoughts that I have concluded for myself. This is what I believe an "about me" should have. Hope this get you to understand me a little more.
 
+>  **<u>This document is not done yet</u>**
+
 ## Basic Information (Let's be honest, this is not the fun part)
 
 **Name:** Zhao Xuanao (Frankie Zhao)
@@ -72,7 +74,7 @@ I have different hobbies:
 
 This is a big part of my life, almost half of my life has been programming.
 
-#### Why do I like this? My Introduction to Programming
+#### Why do I like Computer Stuff? My Introduction on Programming and Software Related
 
 > It's enjoyable to see something, and you expect it to work, and it actually works
 
@@ -128,7 +130,7 @@ Here are projects I worked on (Personal projects). They are all based on my hobb
   - Improved syntax of special statements (such as If, While, For)
   - Supports Extension and Theme Developments (You can write extensions to this bash to customize it)
   - A set of organized, easy-to-use tool to manipulate string, makes it easy to use to write scripts automate file modifications
-
+- Support Error Handling and Exceptions when Scripting
   - Keeps key features of Bash so it's easy to use for people who is used to Bash and Zsh
 
 - **A multi-purpose chat-bot for Discord** (Old project. Not on Github)
@@ -149,15 +151,14 @@ Here are projects I worked on (Personal projects). They are all based on my hobb
   - Other things like math calculations
     - Calculate simple math by using `eval()` function in Python
     - Calculates Simultaneous Equation with a given ax^2+bx=c
+- **Other Small Projects** (Mostly Discontinued, Maybe I should find sometime to continue them)
 
-  
-
-#### What am I interested in next
+#### What am I Interested in Next
 
 - IOT
 - UI Design and UX Improvement (Atleast for Windows)
 
-#### What do I want to learn and expect myself to get good in
+  #### What do I Want to Learn and Expect Myself to Get Good In
 
 - Learn how to work with people
 - Learn to contribute in an opensource project to improve it
