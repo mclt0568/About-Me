@@ -4,7 +4,7 @@
 
 Everything you see here is everything about me. Read anything that you are Interested in, feel free to skip the one that's not relevant for you to understand who really am I. There's not much "codes" or "programming languages I know" going on here, but there's lots of my true thoughts that I have concluded for myself. This is what I believe an "about me" should have. Hope this get you to understand me a little more.
 
->  **<u>This document is not done yet</u>**
+>  **<u>This document is not done yet</u>**, You can comment anything you want by creating an issue
 
 ## Basic Information (Let's be honest, this is not the fun part)
 
@@ -23,13 +23,31 @@ Everything you see here is everything about me. Read anything that you are Inter
 - **English** (I know how to speak, and able to sue as my first language)
 - **Japanese** (Basic conversation, I can help people to translate, but not understanding any slangs)
 
+**Programming Related Informations**: 
+
+- **Languages I'm familiar with**
+  - **Python** (Most familiar and has a deeper understanding)
+  - **C# / Visual Basic** (For creating windows GUI applications with wpf)
+- **Not there yet, but I can write simple things with**
+  - **C++**
+  - **Lua**
+  - **Javascript**
+  - **Java**
+  - **C (Arduino)** 
+- **What Do I Use**
+  - **Sublime Text**
+  - **Visual Studio**
+  - **Github**
+  - **Repl.it** an online IDE
+  - **Ubuntu (Linux)**
+
 **Lived in Malaysia**: 13~14  Years
 
 **Education Level**: Currently in college 
 
 - **Primary School**: Chinese Taipei School Kuala Lumpur
 - **Middle School**: Taylor's International School Puchong
-- **College:** Sunway College (Deploma in Information Technology)
+- **College:** Sunway College (Diploma in Information Technology)
 
 **Contact Me:**
 
@@ -43,7 +61,7 @@ My life has been separated into different parts. Here are a list of them, you ca
 
 ### List of Things I Do and I Like (an index)
 
-This section are the hobbies that i have interest in, and have already spend time to learn my self. **You will see how I study these and where am I right now, and my expectations of these topics**
+This section are the hobbies that i have interest in, and have already spend time to learn myself. **You will see how I study these, where am I right now, and my thoughts and expectations of these topics**
 
 If you are interested in anything listed, you can find a detail informations below
 
@@ -54,21 +72,21 @@ I have different hobbies:
   - **Front-Ends** (Website Designs, UI and UX improvements)
 - **Games**
   - **Things I have learned by playing games** (Actually an important part of my life)
-- **Cultures around the world**
-  - **Japanese Culture** (Actually culture, how people think about things in japan)
-  - **Taiwanese Culture**
-- **Languages around the world (Learn them and understand them)**
-  - **Japanese Language**
-  - **Russian Language**
-  - **Esperanto Language**
-- **Political/philosophical Topics (or current issues? or topics that is interesting to think of)**
-  - **Chinese/Taiwanese Political** (They are actually interesting to look into, requires some history knowledges about this 2 places)
-  - **Current Education Issue** (I believe there's a better way to learn or educate someone)
-  - **Exploring what's so called "my self"** (To understand how I make decisions, what's the logic behind it, if it applies to others or not)
-  - **How Law works in a country and is there a best legal system** (I support and advocates "[Natural law"](https://en.wikipedia.org/wiki/Natural_law))
+  - **The potential of games in education**
 - **Stories and Arts**
   - **A Detailed Story** (Such as a novel, a movie, an animation work, games, or anything with a story on it)
   - **Abstract Art and Feelings** (Musics, Art Styles etc. They don't usually have a story, but you can feel the emotions)
+- **Cultures around the world**
+  - **Japanese Culture** (Actually culture, how people think about things in japan)
+  - **Taiwanese Culture**
+- **Languages Around the World (Learn them and understand them)**
+  - **Japanese Language**
+  - **Russian Language**
+  - **Esperanto Language**
+- **Political/Philosophical Topics (or current issues? or topics that is interesting to think of)**
+  - **Chinese/Taiwanese Political** (They are actually interesting to look into, requires some history knowledges about this 2 places)
+  - **Exploring what's so called "myself"** (To understand how I make decisions, what's the logic behind it, if it applies to others or not)
+  - **How Law works in a country and is there a best legal system** (I support and advocates "[Natural law"](https://en.wikipedia.org/wiki/Natural_law))
 
 ### IT/CS Related
 
@@ -99,6 +117,7 @@ IF textbox1.text = "frankie" AND textbox2.text = "1234" THEN
     msgbox("Login Successed!")
 ELSE
     msgbox("Login Failed!")
+END IF
 ```
 
 I didn't realize that this is programming until someone in the same school told me that this actually **is** programming and coding
@@ -109,9 +128,7 @@ I didn't realize that this is programming until someone in the same school told 
 This was in primary school, when I still have plenty of time to explore this without worrying my Science Results or if I can write Chinese Words correctly. 
 I started to learn lots of fun programming things with the friend I made (the one told me that I write codes).
 
-I learned how to use Google in the correct way, this kind of helps me a lot in exploring IT related things.
-
-At this point, I'm just simply excited about coding. I would spend hours and hours to understand how something works and see if I can make a similar one just by my self.
+At this point, I'm just simply excited about coding. I would spend hours and hours to understand how something works and see if I can make a similar one just by myself.
 
 This continues until now, but I kind of have a direction to work on now.
 
@@ -130,9 +147,10 @@ Here are projects I worked on (Personal projects). They are all based on my hobb
   - Improved syntax of special statements (such as If, While, For)
   - Supports Extension and Theme Developments (You can write extensions to this bash to customize it)
   - A set of organized, easy-to-use tool to manipulate string, makes it easy to use to write scripts automate file modifications
-- Support Error Handling and Exceptions when Scripting
   
-- Keeps key features of Bash so it's easy to use for people who is used to Bash and Zsh
+  - Support Error Handling and Exceptions when Scripting
+    
+  - Keeps key features of Bash so it's easy to use for people who is used to Bash and Zsh
   
 - **A multi-purpose chat-bot for Discord** (Old project. Not on Github)
 
@@ -152,26 +170,94 @@ Here are projects I worked on (Personal projects). They are all based on my hobb
   - Other things like math calculations
     - Calculate simple math by using `eval()` function in Python
     - Calculates Simultaneous Equation with a given ax^2+bx=c
+  
+- **The Discord-Chat-bot-Maker** (Temporarily discontinued)
+
+  The DCPyBotter is an GUI application (Kind of like an IDE) for making Discord Chat-Bots. [Github Repo](https://www.github.com/mclt0568/DCPyBotter) 
+
+  This is the only C# project I've written
+
 - **Other Small Projects** (Mostly Discontinued, Maybe I should find sometime to continue them)
+  - **ColorStr** - A Python Library that allows you to print colored text on terminal while code is easy to read. [Github Repo](https://www.github.com/mclt0568/ColorStr)
+  - **Conway's Game of Life Simulator** - A python written program that simulates Conway's Game of Life. [Github Repo](https://github.com/mclt0568/Conway-s-Game-of-Life) 
 
 #### What am I Interested in Next
 
-- IOT
-- UI Design and UX Improvement (Atleast for Windows)
+- **Internet of Things** - If IOT can be standardized and work together
+  
+  - If a protocol can be made and custom application can be made to control these
+    - Every smart home appliances has a bar-code-like codes that can be scanned and register to a phone app (or an server)
+    - After pairing up to the server, the appliances can communicate with the server. Cross branding can be achieved
+  - Developers can create their own server that follows the same protocol
+  
+- **UI Design and UX Improvement**
+
+  Due to poor UI design of Windows, see if there's a way to improve the windows touch experience while maintain the experience of mouse users.
 
 #### What do I Want to Learn and Expect Myself to Get Good In
 
 - Learn how to work with people
-- Learn to contribute in an opensource project to improve it
-- Learn the standards of software development 
+- Learn to contribute in an open source project to improve it
 
 ### Games and Things Games Taught Me
 
+I'm not really clear about the definition of game. For me, anything fun can be game, any serious exploration in knowledge can be fun. I do things that's fun to me, therefore Programming can be games to me too.
+
+But I'm just gonna talk about games of what most people defines.
+
+#### Why Do I Play Games 
+
+> Things kids play
+
+When I first joined primary school, Minecraft was a big trend across my classmates, and of course, I'm part of the trend. 
+
+Minecraft is a game which allows you to explore a world made out of blocks, you can build houses, destroy things, create new things, cook foods. It also have an very powerful extension system allows you to add additional content to the game (The mod system). This allows it can be anything. It can be scientific, it can be artistic, it can be *<u>anything</u>*.
+
+>Truly "Play and Learn"
+
+This provides me a platform to create things that is in my mind, and I spend tons of time exploring the content of the game, learning the mechanism behind each elements of the game. The technical and industrial add-on of the game is something I enjoy at the time, it adds things like more minerals and ores, machineries, the concept of electricity to the game. In order to play these game contents, you'll need to learn the electrical science or some chemistry of mineral production and alloying of this game, which is some-what similar to the science in real-life.
+
+> Things kids play ... ?
+
+Whenever there's an update to the game, or something which I can't understand, Google comes in handy. Sometimes something wrong happened in the game was caused by a bug in the game, there will be tutorials teach you how to debug the game, and fix them by changing some files. After doing this a several of time, I kind of understand how this game works in terms of the technical part. I started to modify the game's assets to change how things look, or adding a custom Language to the game (such as making potatoes in the game to be called "strawberries" by changing the English Language File).
+
+> Because It's Fun
+
+Everything I do is in order to enjoy with this game, I wasn't playing this game because it's "educative", nor this game is created to "educate" people.
+
+Just because it was fun for me to play and explore this game.
+
+#### The Potential of Games in Education
+
+> Why can we understand how the game works, why can we memorize the game content, but we have trouble learning math and chemistry?
+
+After entering High school, I found out the concept of science theories that people struggle to understand and memorize are just the complicated version of "Minecraft", after realizing this, I was able to learn these science subjects a lot faster and had no problem understanding these concepts in a deeper level.
+
+This kind of proves that there's no true difference from playing games then studying, sports, or anything else that we believes is to make us a better person. They both requires the same skills and process, the skill to research online, the skill to understand and think logically, self-training to get better at a certain field, or even the skill to find the way to get better.
+
+Therefore the real question is: 
+
+> What makes "learning in school" so difficult for most people?
+
+#### What *is* Education?
+
+I don't see education is fully about learning knowledges and getting a good score.
+
+When I was still in early stage at school, I have often been told that going to school, learn things and score good is my duty as a student, and the reason behind doing all this is to get a good job, and achieve a good life. As a kid who don't really think about the meaning of words, or the reason behind it, I simply think that these repeating words are meaningless. I don't understand what's a good life, I'm not sure if I want it, but there was one thing that I know for sure -- I don't like being forced to do the same math questions everyday. I was fed with these knowledge.
+
+But at the other side, I enjoy playing games. I enjoy learning and understanding the game I'm playing. Therefore, I think exploration, try to enjoy something, and learn something useful to enjoy what you want to enjoy is what education all about.
+
+### Stories and Arts
+
+
+
 ### Culture Around the World
+
+
 
 ### Languages Around the world
 
-### Political/Philosophical Topics
 
-### Stories and Arts
+
+### Political/Philosophical Topics
 
