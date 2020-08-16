@@ -131,8 +131,9 @@ Here are projects I worked on (Personal projects). They are all based on my hobb
   - Supports Extension and Theme Developments (You can write extensions to this bash to customize it)
   - A set of organized, easy-to-use tool to manipulate string, makes it easy to use to write scripts automate file modifications
 - Support Error Handling and Exceptions when Scripting
-  - Keeps key features of Bash so it's easy to use for people who is used to Bash and Zsh
-
+  
+- Keeps key features of Bash so it's easy to use for people who is used to Bash and Zsh
+  
 - **A multi-purpose chat-bot for Discord** (Old project. Not on Github)
 
   Discord is a chatting app, and it has an API to create chat-bot that can listen to your message and respond to you
@@ -158,7 +159,7 @@ Here are projects I worked on (Personal projects). They are all based on my hobb
 - IOT
 - UI Design and UX Improvement (Atleast for Windows)
 
-  #### What do I Want to Learn and Expect Myself to Get Good In
+#### What do I Want to Learn and Expect Myself to Get Good In
 
 - Learn how to work with people
 - Learn to contribute in an opensource project to improve it
