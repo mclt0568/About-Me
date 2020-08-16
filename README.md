@@ -6,7 +6,9 @@ Everything you see here is everything about me. Read anything that you are inter
 
 >  **<u>This document is not done yet</u>**, You can comment on anything you want by creating an issue
 
-## Basic Information (Let's be honest, this is not the fun part)**Name:** Zhao Xuanao (Frankie Zhao)
+## Basic Information (Let's be honest, this is not the fun part)
+
+**Name:** Zhao Xuanao (Frankie Zhao)
 
 **Age:** 17 (2003 May)
 
