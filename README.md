@@ -132,13 +132,9 @@ My first touch to "programming" was exploring Microsoft Access (I didn't know th
 
 ```vB
 IF textbox1.text = "frankie" AND textbox2.text = "1234" THEN
-
   msgbox("Login Successed!")
-
 ELSE
-
   msgbox("Login Failed!")
-
 END IF
 ```
 
