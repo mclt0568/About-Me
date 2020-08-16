@@ -18,7 +18,7 @@ Everything you see here is everything about me. Read anything that you are inter
 
 - **Chinese** (These 3 are quite different)
 
-- - Taiwanese Chinese (Fluent, understands slang for native speakers)
+  - Taiwanese Chinese (Fluent, understands slang for native speakers)
   - Malaysian Chinese (Fluent, understands slang for native speakers)
   - Native China Mandarin (Fluent, understands slang for native speakers)
 
@@ -30,12 +30,12 @@ Everything you see here is everything about me. Read anything that you are inter
 
 - **Languages I'm familiar with**
 
-- - **Python** (Most familiar and has a deeper understanding)
+  - **Python** (Most familiar and has a deeper understanding)
   - **C# / Visual Basic** (For creating Windows GUI applications with WPF)
 
 - **Not there yet, but I can write simple things with**
 
-- - **C++**
+  - **C++**
   - **Lua**
   - **Javascript**
   - **Java**
@@ -43,7 +43,7 @@ Everything you see here is everything about me. Read anything that you are inter
 
 - **What Do I Use**
 
-- - **Sublime Text**
+  - **Sublime Text**
   - **Visual Studio**
   - **Github**
   - **Repl.it** an online IDE
@@ -76,33 +76,33 @@ I have different hobbies:
 
 - **IT/CS Related**
 
-- - **Software Developments**
+  - **Software Developments**
   - **Front-Ends** (Website Designs, UI and UX improvements)
 
 - **Games**
 
-- - **Things I have learned by playing games** (Actually an important part of my life)
+  - **Things I have learned by playing games** (Actually an important part of my life)
   - **The potential of games in education**
 
 - **Stories and Arts**
 
-- - **A Detailed Story** (Such as a novel, a movie, an animation work, games, or anything with a story on it)
+  - **A Detailed Story** (Such as a novel, a movie, an animation work, games, or anything with a story on it)
   - **Abstract Art and Feelings** (Music, Art Styles etc. They don't usually have a story, but you can feel the emotions)
 
 - **Cultures around the world**
 
-- - **Japanese Culture** (Actually culture, how people think about things in japan)
+  - **Japanese Culture** (Actually culture, how people think about things in japan)
   - **Taiwanese Culture**
 
 - **Languages Around the World (Learn them and understand them)**
 
-- - **Japanese Language**
+  - **Japanese Language**
   - **Russian Language**
   - **Esperanto Language**
 
 - **Political/Philosophical Topics (or current issues? or topics that is interesting to think of)**
 
-- - **Chinese/Taiwanese Political** (They are interesting to look into, requires some history knowledge about these 2 places)
+  - **Chinese/Taiwanese Political** (They are interesting to look into, requires some history knowledge about these 2 places)
   - **Exploring what's so-called "myself"** (To understand how I make decisions, what's the logic behind it, if it applies to others or not)
   - **How Law works in a country and is there a best legal system** (I support and advocates "[Natural law"](https://en.wikipedia.org/wiki/Natural_law))
 
@@ -172,55 +172,45 @@ Here are projects I worked on (Personal projects). They are all based on my hobb
 
 - The bot can:
 
-- Look up weather
-
-- - - It checks for keywords in your sentence such as "weather", "humidity", "temperature" and "what", "how", "check" etc
+  - Look up weather
+    - It checks for keywords in your sentence such as "weather", "humidity", "temperature" and "what", "how", "check" etc
     - If it detects those keywords, it will search your sentence to Google and get the HTML for weather information
-
-  - Then it will use reg-ex to filter out the necessary information and format it into a readable form, then send it to the chat of the app
-
-- Translation, Language Detection
-
-- - Uses Google Translate Python API
-
-- Timer and Countdowns
-
-- - - checks for keywords like "count to", "countdown", "alarm" and extract the number, units such as "30 minute", "20 seconds"
-
-  - count down and sends a message to remind you when its time up
-
-- Other things like math calculations
-
-- - - Calculate simple math by using `eval()` function in Python
-
+    - Then it will use reg-ex to filter out the necessary information and format it into a readable form, then send it to the chat of the app
+  - Translation, Language Detection
+  - Uses Google Translate Python API
+  - Timer and Countdowns
+    - checks for keywords like "count to", "countdown", "alarm" and extract the number, units such as "30 minute", "20 seconds"
+    - count down and sends a message to remind you when its time up
+  - Other things like math calculations
+  - Calculate simple math by using `eval()` function in Python
   - Calculates Simultaneous Equation with a given `ax^2+bx=c`
 
 - **The Discord-Chat-bot-Maker** (Temporarily discontinued)
 
-- The DCPyBotter is a GUI application (Kind of like an IDE) for making Discord Chat-Bots. [Github Repo](https://www.github.com/mclt0568/DCPyBotter) 
+  The DCPyBotter is a GUI application (Kind of like an IDE) for making Discord Chat-Bots. [Github Repo](https://www.github.com/mclt0568/DCPyBotter) 
 
-- This is the only C# project I've written
+  This is the only C# project I've written
 
 - **Other Small Projects** (Mostly Discontinued, Maybe I should find some time to continue them)
 
-- - **ColorStr** - A Python Library that allows you to print colored text on the terminal while code is easy to read. [Github Repo](https://www.github.com/mclt0568/ColorStr)
+  - **ColorStr** - A Python Library that allows you to print colored text on the terminal while code is easy to read. [Github Repo](https://www.github.com/mclt0568/ColorStr)
   - **Conway's Game of Life Simulator** - A python written program that simulates Conway's Game of Life. [Github Repo](https://github.com/mclt0568/Conway-s-Game-of-Life) 
 
 #### What am I Interested in Next
 
 - **Internet of Things** - If IOT can be standardized and work together
 
-- If a protocol can be made and custom application can be made to control these
+  If a protocol can be made and custom application can be made to control these
 
-- - - Every smart home appliances have a bar-code-like code that can be scanned and register to a phone app (or a server)
-
+  - Every smart home appliances have a bar-code-like code that can be scanned and register to a phone app (or a server)
   - After pairing up to the server, the appliances can communicate with the server. Cross branding can be achieved
 
   - Developers can create their server that follows the same protocol
 
 - **UI Design and UX Improvement**
 
-- Due to poor UI design of Windows, see if there's a way to improve the windows touch experience while maintaining the experience of mouse users.
+  Due to poor UI design of Windows, see if there's a way to improve the windows touch experience while maintaining the experience of mouse users.
+
 
 #### What do I Want to Learn and Expect Myself to Get Good In
 
