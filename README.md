@@ -267,8 +267,16 @@ But on the other side, I enjoy playing games. I enjoy learning and understanding
 
 ### Stories and Arts
 
+> Comming soon ~
+
 ### Culture Around the World
+
+> Comming soon ~
 
 ### Languages Around the world
 
+> Comming soon ~
+
 ### Political/Philosophical Topics
+
+> Comming soon ~
