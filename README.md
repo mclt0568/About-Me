@@ -42,8 +42,7 @@ Everything you see here is everything about me. Read anything that you are inter
   - **C (Arduino)** 
 
 - **What Do I Use**
-
-  - **Sublime Text**
+- **Sublime Text**
   - **Visual Studio**
   - **Github**
   - **Repl.it** an online IDE
@@ -259,9 +258,7 @@ But on the other side, I enjoy playing games. I enjoy learning and understanding
 
 ### Stories and Arts
 
-Each people have different understanding of art. For me, anything that can give me any kind of feeling can be called art, thus not only paintings, music, stories, a arraigned desk or the walkway near my house can also be art to me.
-
-Maybe a small portion of me are seeking for freshness, I love to imagine something completely different from what I'm used to when I'm free. Things like an 
+currently writing
 
 ### Culture Around the World
 
