@@ -251,13 +251,19 @@ Therefore the real question is:
 
 I don't see education is fully about learning knowledge and getting a good score.
 
-When I was still in an early stage at school, I have often been told that going to school, learn things and score well is my duty as a student, and the reason behind doing all this is to get a good job and achieve a good life. As a kid who don't think about the meaning of words, or the reason behind it, I simply think that these repeating words are meaningless. I don't understand what's a good life, I'm not sure if I want it, but there was one thing that I know for sure -- I don't like being forced to do the same math questions every day. I was fed with this knowledge.
+When I was still in an early stage at school, I have often been told that going to school, learn things and score well is my duty as a student, and the reason behind doing all this is to get a good job and achieve a good life. As a kid who don't think about the meaning of words, or the reason behind it, I simply think that these repeating words are meaningless. I don't understand what's a good life, I'm not sure if I want it, but there was one thing that I know for sure — I don't like being forced to do the same math questions every day. I was fed with this knowledge.
 
 But on the other side, I enjoy playing games. I enjoy learning and understanding the game I'm playing. Therefore, I think exploration, try to enjoy something and learn something useful to enjoy what you want to enjoy is what education all about.
 
 ### Stories and Arts
 
-still writing
+Each people have different understanding of art. For me, anything that can give me any kind of feeling can be called art, thus not only paintings, music, stories, a arraigned desk or the walkway near my house can also be art to me.
+
+#### Abstract Feelings You Cannot Describe Through Languages and Words
+
+Language is important to us, it's the bridge of information exchange with others — We narrate and describe something to others 
+
+Maybe a small portion of me are seeking for freshness, I love to imagine something completely different from what I'm used to when I'm free. Things like an 
 
 ### Culture Around the World
 
