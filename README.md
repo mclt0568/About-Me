@@ -78,31 +78,22 @@ I have different hobbies:
 
   - **Software Developments**
   - **Front-Ends** (Website Designs, UI and UX improvements)
-
 - **Games**
 
   - **Things I have learned by playing games** (Actually an important part of my life)
   - **The potential of games in education**
-
 - **Stories and Arts**
-
-  - **A Detailed Story** (Such as a novel, a movie, an animation work, games, or anything with a story on it)
-  - **Abstract Art and Feelings** (Music, Art Styles etc. They don't usually have a story, but you can feel the emotions)
-
+- **Abstract Art and Feelings** (Music, Art Styles etc. They don't usually have a story, but you can feel the emotions)
+  - **A Detailed Story** (Such as a novel, a movie, an animation work, a game, or anything with a story in it.)
 - **Cultures around the world**
-
-  - **Japanese Culture** (Actually culture, how people think about things in japan)
+- **Japanese Culture** (Actually culture, how people think about things in japan)
   - **Taiwanese Culture**
-
 - **Languages Around the World (Learn them and understand them)**
-
-  - **Japanese Language**
+- **Japanese Language**
   - **Russian Language**
   - **Esperanto Language**
-
 - **Political/Philosophical Topics (or current issues? or topics that is interesting to think of)**
-
-  - **Chinese/Taiwanese Political** (They are interesting to look into, requires some history knowledge about these 2 places)
+- **Chinese/Taiwanese Political** (They are interesting to look into, requires some history knowledge about these 2 places)
   - **Exploring what's so-called "myself"** (To understand how I make decisions, what's the logic behind it, if it applies to others or not)
   - **How Law works in a country and is there a best legal system** (I support and advocates "[Natural law"](https://en.wikipedia.org/wiki/Natural_law))
 
@@ -154,11 +145,12 @@ Here are projects I worked on (Personal projects). They are all based on my hobb
 
 - **The Fr-sh Project** (Working on)
 
-- Fr-sh is an interpretive shell and shell language for scripting for the Linux operating system. [Github Repo](https://www.github.com/mclt0568/fr-sh-remade)
+  Fr-sh is an interpretive shell and shell language for scripting for the Linux operating system. [Github Repo](https://www.github.com/mclt0568/fr-sh-remade)
 
-- The main idea of Fr-sh is to improve the current Bash and Zsh Syntax. Ideas including:
+  The main idea of Fr-sh is to improve the current Bash and Zsh Syntax. Ideas including:
 
-- - Adding Data types to Variables
+  - Adding Data types to Variables
+
   - A Better way to access or pipe the stdio/ fileio and return code of processes
   - Improved syntax of special statements (such as If, While, For)
   - Supports Extension and Theme Developments (You can write extensions to this bash to customize it)
@@ -168,9 +160,9 @@ Here are projects I worked on (Personal projects). They are all based on my hobb
 
 - **A multi-purpose chat-bot for Discord** (Old project. Not on Github)
 
-- Discord is a chatting app, and it has an API to create chat-bot that can listen to your message and respond to you
+  Discord is a chatting app, and it has an API to create chat-bot that can listen to your message and respond to you
 
-- The bot can:
+  The bot can:
 
   - Look up weather
     - It checks for keywords in your sentence such as "weather", "humidity", "temperature" and "what", "how", "check" etc
@@ -267,7 +259,9 @@ But on the other side, I enjoy playing games. I enjoy learning and understanding
 
 ### Stories and Arts
 
-> Comming soon ~
+Each people have different understanding of art. For me, anything that can give me any kind of feeling can be called art, thus not only paintings, music, stories, a arraigned desk or the walkway near my house can also be art to me.
+
+Maybe a small portion of me are seeking for freshness, I love to imagine something completely different from what I'm used to when I'm free. Things like an 
 
 ### Culture Around the World
 
