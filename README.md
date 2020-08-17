@@ -78,21 +78,20 @@ I have different hobbies:
   - **Software Developments**
   - **Front-Ends** (Website Designs, UI and UX improvements)
 - **Games**
-
   - **Things I have learned by playing games** (Actually an important part of my life)
   - **The potential of games in education**
 - **Stories and Arts**
-- **Abstract Art and Feelings** (Music, Art Styles etc. They don't usually have a story, but you can feel the emotions)
+  - **Abstract Art and Feelings** (Music, Art Styles etc. They don't usually have a story, but you can feel the emotions)
   - **A Detailed Story** (Such as a novel, a movie, an animation work, a game, or anything with a story in it.)
 - **Cultures around the world**
-- **Japanese Culture** (Actually culture, how people think about things in japan)
+  - **Japanese Culture** (Actually culture, how people think about things in japan)
   - **Taiwanese Culture**
 - **Languages Around the World (Learn them and understand them)**
-- **Japanese Language**
+  - **Japanese Language**
   - **Russian Language**
   - **Esperanto Language**
 - **Political/Philosophical Topics (or current issues? or topics that is interesting to think of)**
-- **Chinese/Taiwanese Political** (They are interesting to look into, requires some history knowledge about these 2 places)
+  - **Chinese/Taiwanese Political** (They are interesting to look into, requires some history knowledge about these 2 places)
   - **Exploring what's so-called "myself"** (To understand how I make decisions, what's the logic behind it, if it applies to others or not)
   - **How Law works in a country and is there a best legal system** (I support and advocates "[Natural law"](https://en.wikipedia.org/wiki/Natural_law))
 
@@ -258,7 +257,7 @@ But on the other side, I enjoy playing games. I enjoy learning and understanding
 
 ### Stories and Arts
 
-currently writing
+still writing
 
 ### Culture Around the World
 
