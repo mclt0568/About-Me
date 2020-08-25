@@ -42,7 +42,7 @@ Everything you see here is everything about me. Read anything that you are inter
   - **C (Arduino)** 
 
 - **What Do I Use**
-- **Sublime Text**
+  - **Sublime Text**
   - **Visual Studio**
   - **Github**
   - **Repl.it** an online IDE
