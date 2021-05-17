@@ -32,21 +32,39 @@ Everything you see here is everything about me. Read anything that you are inter
 
   - **Python** (Most familiar and has a deeper understanding)
   - **C# / Visual Basic** (For creating Windows GUI applications with WPF)
+  - **Javascript (with Node)**
+  - **PHP**
+  - **SQL**
 
 - **Not there yet, but I can write simple things with**
 
   - **C++**
   - **Lua**
-  - **Javascript**
   - **Java**
   - **C (Arduino)** 
+  - **BASH / CMD**
+  - **GOLANG**
+  - **NASM / x86 ASSEMBLY**
 
-- **What Do I Use**
+- **How do I Tech**
   - **Sublime Text**
   - **Visual Studio**
-  - **Github**
+  - **Visual Studio Code**
+  - **Git Version Control**
   - **Repl.it** an online IDE
-  - **Ubuntu (Linux)**
+  - **Ubuntu (or any Debain Linux)**
+  - **Windows**
+  - **ExpressJS**
+  - **VueJs / ReactJS**
+  - **MYSQL**
+  - **FTP**
+  - **HTTP/HTTPS**
+  - **JWT**
+
+- **Getting Started With**
+  - **Blockchain**
+  - **Nural Netowrk and Machine Learning**
+  - **P2P Network Architecture**
 
 **Lived in Malaysia**: 13~14 Years
 
