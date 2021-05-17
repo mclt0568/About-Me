@@ -62,9 +62,10 @@ Everything you see here is everything about me. Read anything that you are inter
   - **JWT**
 
 - **Getting Started With**
-  - **Blockchain**
   - **Nural Netowrk and Machine Learning**
+  - **Blockchain**
   - **P2P Network Architecture**
+  - **Decentralisation in General**
 
 **Lived in Malaysia**: 13~14 Years
 
