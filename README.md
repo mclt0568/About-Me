@@ -22,9 +22,13 @@ Everything you see here is everything about me. Read anything that you are inter
   - Malaysian Chinese (Fluent, understands slang for native speakers)
   - Native China Mandarin (Fluent, understands slang for native speakers)
 
-- **English** (I know how to speak, and able to sue as my first language)
+- **English** (I know how to speak, can be considered as my second language) (IELTS Band 6.5)
 
-- **Japanese** (Basic conversation, I can help people to translate, but not understanding any slangs)
+- **Japanese** (Basic conversation, I can help people to translate, but not understanding any slangs) (JLPT N4)
+
+- **Esperanto** (Mi estas Komencanto Esperantisto. Mi pensas, ke Esperanto estas bela lingvo!) 
+
+- [**Vehallas**](https://hackmd.io/@OwMSERhGTlWg2oxJZaTlEw/S1Oc8htId) (A [conlang](https://en.wikipedia.org/wiki/Constructed_language) by me! Nasa eldisha isferl bonukas eldisha!)
 
 **Programming Related Information**: 
 
