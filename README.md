@@ -59,6 +59,7 @@ Everything you see here is everything about me. Read anything that you are inter
   - **Ubuntu (or any Debain Linux)**
   - **Windows**
   - **ExpressJS**
+  - **JSON Based API Usage/Design**
   - **VueJs / ReactJS**
   - **MYSQL**
   - **FTP**
