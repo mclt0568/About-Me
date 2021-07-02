@@ -71,6 +71,7 @@ Everything you see here is everything about me. Read anything that you are inter
   - **Blockchain**
   - **P2P Network Architecture**
   - **Decentralisation in General**
+  - **Android Developement** Java/Flutter with Dart
 
 **Lived in Malaysia**: 13~14 Years
 
