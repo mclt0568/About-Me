@@ -35,7 +35,7 @@ Everything you see here is everything about me. Read anything that you are inter
 - **Languages I'm familiar with**
 
   - **Python** (Most familiar and has a deeper understanding)
-  - **C# / Visual Basic** (For creating Windows GUI applications with WPF)
+  - **C# / Visual Basic** (WinForm/WPF/Crossplatform-Console Applications)
   - **Javascript (with Node)**
   - **PHP**
   - **SQL**
